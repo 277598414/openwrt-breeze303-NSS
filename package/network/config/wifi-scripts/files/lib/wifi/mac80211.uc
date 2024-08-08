@@ -84,7 +84,7 @@ set ${si}.device='${name}'
 set ${si}.network='lan'
 set ${si}.mode='ap'
 set ${si}.ssid='xiaomi'
-set ${si}.encryption='*#36343314'
+set ${si}.encryption='none'
 
 `);
 	commit = true;
